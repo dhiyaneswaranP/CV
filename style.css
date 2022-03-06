@@ -1,0 +1,89 @@
+body{
+    text-align: center;
+    color: grey;
+    font-family: 'merriweather', sans-serif ;
+    font-size:150% ;
+}
+h1{
+    margin: 0 auto ;
+    padding: 50px;
+    font-family: 'montserrat',serif;
+    font-family: 'montez', cursive ;
+    color:#44afaf;  
+}
+h2{
+    color: #44afaf;
+    font-family:'montserrat',serif ;
+    font-weight:normal ;
+    line-height: 2;
+}
+h3{
+     padding-bottom: 200pxS;
+     font-family:  'montserrat',serif;
+     color: #44afaf;
+     
+}
+span{
+    text-decoration:underline ;
+
+}
+.div0 {
+ background-color: rgb(190, 223, 223);
+ 
+
+}
+.div1{
+
+
+
+}
+.div1 img{
+    border-radius: 50px;
+}
+.div2{
+}
+    
+.mountain{
+    margin: 0;
+    width: 600px;
+    height: 499px;
+}
+.div22{
+
+    width: auto 20 auto 20;
+    
+    background-color: rgb(190, 223, 223);
+}     
+.footer-link{
+    color: #f4f7f7;
+    text-decoration: none;
+    font-family:  sans-serif;
+    width: auto 20 auto 20;
+    background-color: rgb(60, 184, 173);
+
+}
+.footer-link:hover{
+    background-color: rgb(148, 187, 174);
+}
+hr{
+    width: 60px;
+    border-style: dotted;
+    border-top: 20px;
+    border-width: 10px;
+    color: rgb(100, 154, 158);
+    
+}
+ .contact{
+    text-decoration: none;
+     background-color: rgb(60, 184, 173);
+     color: aliceblue;
+     padding: 20px;
+  }
+.contact:hover{
+    text-decoration: none;
+     background-color: rgb(111, 184, 189);
+     color: white;
+     padding: 20px;
+
+}
+  
